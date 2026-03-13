@@ -76,5 +76,17 @@
     "sub": "7/24 YAYIN",
     "type": "turkuvaz",
     "turkuvaz_ch": "aspor"
+  },
+  {
+    "name": "ATV",
+    "sub": "7/24 YAYIN",
+    "type": "turkuvaz",
+    "turkuvaz_ch": "atv"
+  },
+  {
+    "name": "A HABER",
+    "sub": "7/24 YAYIN",
+    "type": "turkuvaz",
+    "turkuvaz_ch": "ahaber"
   }
 ]
