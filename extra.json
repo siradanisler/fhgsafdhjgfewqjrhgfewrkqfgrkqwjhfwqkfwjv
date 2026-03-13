@@ -164,13 +164,13 @@
   {
     "name": "DMAX",
     "sub": "7/24 YAYIN",
-    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8",
+    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3%26app=5a02c599-d17e-4982-9b04-090934d51af7%26token=K3dQaWIrZTUvWHpwMUxvSlpWMXZBaE45RXgrSzY4SnNDK3gxUkVoaTdMcz0=",
     "type": "m3u8"
   },
   {
     "name": "TLC",
     "sub": "7/24 YAYIN",
-    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8",
+    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3%26app=1aca0aa1-06e3-41ff-a8e5-38d7df475469%26token=aWw3R3Q2NTdyTnE4ZUMrOTlxTHdlc0NYV1dZaUt4UFdWRGFVeGlLeXZicz0=",
     "type": "m3u8"
   },
   {
