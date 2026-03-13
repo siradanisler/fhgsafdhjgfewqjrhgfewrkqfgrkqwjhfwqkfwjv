@@ -3,103 +3,120 @@
     "name": "TRT 1",
     "sub": "7/24 YAYIN",
     "src": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TRT1.tr"
   },
   {
     "name": "TRT SPOR",
     "sub": "7/24 YAYIN",
     "src": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TRT3-TRTSpor.tr"
   },
   {
     "name": "TRT SPOR YILDIZ",
     "sub": "7/24 YAYIN",
     "src": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TRTSPORYILDIZ.tr"
   },
   {
     "name": "TRT HABER",
     "sub": "7/24 YAYIN",
     "src": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TRTHaber.tr"
   },
   {
     "name": "KANAL D",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web%26ce=3",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "KanalD.tr"
   },
   {
     "name": "STAR TV",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web%26ce=3",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "StarTV.tr"
   },
   {
     "name": "TV8",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788%26ce=3",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TV8.tr"
   },
   {
     "name": "NOW TV",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "NOWTV.tr"
   },
   {
     "name": "HALK TV",
     "sub": "7/24 YAYIN",
     "src": "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "HalkTV.tr"
   },
   {
     "name": "SHOW TV",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3%26app=4bc856ef-4c68-4a94-bc87-37dfaaa66558",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "ShowTV.tr"
   },
   {
     "name": "NTV",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://dogus.daioncdn.net/ntv/ntv.m3u8?app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f%26ce=3",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "NTV.tr"
   },
   {
     "name": "TRT 2",
     "sub": "7/24 YAYIN",
     "src": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TRT2.tr"
   },
   {
     "name": "TELE 1",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://tele1-live.ercdn.net/tele1/tele1.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TELE1.tr"
   },
   {
     "name": "TV8,5",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?%26sid=88ob9hufomtu%26app=bf58ab52-4865-4c81-b223-26b41009801e%26ce=3",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TV8,5.tr"
   },
   {
     "name": "HABER GLOBAL",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "HABERGLOBAL.tr"
   },
   {
     "name": "TGRT HABER",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://canli.tgrthaber.com/tgrt.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TGRTHaber.tr"
   },
   {
     "name": "HABER TÜRK",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b%26ce=3",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "HABERTURK.tr"
   },
   {
     "name": "CNBC-e",
@@ -117,7 +134,8 @@
     "name": "BLOOMBERG HT",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=201b9556-b11c-4d92-b264-f21fd24e9aaf%26ce=3",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "BloombergHT.tr"
   },
   {
     "name": "TBMM TV",
@@ -129,13 +147,15 @@
     "name": "TRT BELGESEL",
     "sub": "7/24 YAYIN",
     "src": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TRTBelgesel.tr"
   },
   {
     "name": "HT SPOR",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://ciner-live.ercdn.net/htspor/htspor.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "HTSPOR.tr"
   },
   {
     "name": "EKOL SPOR",
@@ -147,7 +167,8 @@
     "name": "TRT MÜZİK",
     "sub": "7/24 YAYIN",
     "src": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TRTMüzik.tr"
   },
   {
     "name": "MELTEM",
@@ -159,48 +180,56 @@
     "name": "TRT AVAZ",
     "sub": "7/24 YAYIN",
     "src": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TRTAVAZ.tr"
   },
   {
     "name": "DMAX",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3%26app=5a02c599-d17e-4982-9b04-090934d51af7%26token=K3dQaWIrZTUvWHpwMUxvSlpWMXZBaE45RXgrSzY4SnNDK3gxUkVoaTdMcz0=",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "DMAX.tr"
   },
   {
     "name": "TLC",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3%26app=1aca0aa1-06e3-41ff-a8e5-38d7df475469%26token=aWw3R3Q2NTdyTnE4ZUMrOTlxTHdlc0NYV1dZaUt4UFdWRGFVeGlLeXZicz0=",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TLC.tr"
   },
   {
     "name": "TV 100",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "TV100.tr"
   },
   {
     "name": "TEVE 2",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "Teve2.tr"
   },
   {
     "name": "A2",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "A2.tr"
   },
   {
     "name": "TV 24",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "KANAL24.tr"
   },
   {
     "name": "BENGÜTÜRK",
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
-    "type": "m3u8"
+    "type": "m3u8",
+    "epg": "BengütürkTV.tr"
   }
 ]
