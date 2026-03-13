@@ -28,5 +28,29 @@
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web%26ce=3",
     "type": "m3u8"
+  },
+  {
+    "name": "STAR TV",
+    "sub": "7/24 YAYIN",
+    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web%26ce=3",
+    "type": "m3u8"
+  },
+  {
+    "name": "TV8",
+    "sub": "7/24 YAYIN",
+    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788%26ce=3",
+    "type": "m3u8"
+  },
+  {
+    "name": "NOW TV",
+    "sub": "7/24 YAYIN",
+    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+    "type": "m3u8"
+  },
+  {
+    "name": "NTV",
+    "sub": "7/24 YAYIN",
+    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+    "type": "m3u8"
   }
 ]
