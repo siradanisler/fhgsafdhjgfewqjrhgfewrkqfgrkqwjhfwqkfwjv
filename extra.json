@@ -70,5 +70,11 @@
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://dogus.daioncdn.net/ntv/ntv.m3u8?app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f%26ce=3",
     "type": "m3u8"
+  },
+  {
+    "name": "A SPOR",
+    "sub": "7/24 YAYIN",
+    "type": "turkuvaz",
+    "turkuvaz_ch": "aspor"
   }
 ]
