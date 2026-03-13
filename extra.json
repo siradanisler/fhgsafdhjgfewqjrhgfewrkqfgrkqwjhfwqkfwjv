@@ -26,7 +26,7 @@
   {
     "name": "KANAL D",
     "sub": "7/24 YAYIN",
-    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://demiroren.daioncdn.net/kanald/kanald.m3u8",
+    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web%26ce=3",
     "type": "m3u8"
   }
 ]
