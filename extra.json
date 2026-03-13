@@ -54,21 +54,15 @@
     "type": "m3u8"
   },
   {
-    "name": "CNN TÜRK",
-    "sub": "7/24 YAYIN",
-    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_1_320/playlist.m3u8",
-    "type": "m3u8"
-  },
-  {
     "name": "HABER TÜRK",
     "sub": "7/24 YAYIN",
-    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8",
+    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b%26ce=3",
     "type": "m3u8"
   },
   {
-    "name": "ATV",
+    "name": "SHOW TV",
     "sub": "7/24 YAYIN",
-    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://trkvz-live.daioncdn.net/atv/atv.m3u8",
+    "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3%26app=4bc856ef-4c68-4a94-bc87-37dfaaa66558",
     "type": "m3u8"
   },
   {
@@ -76,5 +70,12 @@
     "sub": "7/24 YAYIN",
     "src": "https://snowy-darkness-9e18.skecler-vokal2h.workers.dev/?url=https://dogus.daioncdn.net/ntv/ntv.m3u8?app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f%26ce=3",
     "type": "m3u8"
+  },
+  {
+    "name": "SÖZCÜ TV",
+    "sub": "7/24 YAYIN",
+    "src": "https://www.youtube.com/embed/ztmY_cCtUl0",
+    "type": "iframe",
+    "youtube_channel": "UCOulx_rep5O4i9y6AyDqVvw"
   }
 ]
